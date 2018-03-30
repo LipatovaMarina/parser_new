@@ -1,0 +1,13 @@
+C:\Users\MARINA\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/MARINA/PycharmProjects/parser_/parser.py
+---------------------------------------------------------------
+[*] IP your network:
+5.18.243.141
+---------------------------------------------------------------
+[!] Connecting to the Tor network /...../
+[x] Stopping connect to the Tor network
+---------------------------------------------------------------
+[!] Uniform Resource Locator:
+http://sut.ru
+---------------------------------------------------------------
+
+Process finished with exit code 0
